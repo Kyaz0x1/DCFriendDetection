@@ -1,5 +1,5 @@
 # DCFriendDetection
-Sends a notification when it detects that someone has been removed from your discord friends list
+Sends a notification when it detects that someone has been removed from your discord friends lis
 ### Demo
 <img src="img/DCFriendDetection.png" />
 
